@@ -1,2 +1,2 @@
-# lulios
-LuliOS - creating my own operating system as a personal challenge
+# LuliOS
+Creating my own operating system as a personal challenge
